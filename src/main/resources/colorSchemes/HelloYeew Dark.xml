@@ -1,9 +1,9 @@
 <scheme name="HelloYeew Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-10-09T16:01:04</property>
+    <property name="created">2023-10-09T16:13:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.2.2.0.0</property>
-    <property name="modified">2023-10-09T16:01:16</property>
+    <property name="modified">2023-10-09T16:14:01</property>
     <property name="originalScheme">HelloYeew Dark</property>
   </metaInfo>
   <colors>
@@ -56,7 +56,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="831d1d" />
@@ -663,7 +663,7 @@
         <option name="FOREGROUND" value="b687b9" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -677,6 +677,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_LABEL">
       <value />
     </option>
@@ -685,7 +690,6 @@
         <option name="FOREGROUND" value="4dacf0" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value>
         <option name="BACKGROUND" value="153811" />
@@ -838,7 +842,7 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="ce7e5e" />
+        <option name="FOREGROUND" value="e18a5b" />
       </value>
     </option>
     <option name="PY.LOCAL_VARIABLE">

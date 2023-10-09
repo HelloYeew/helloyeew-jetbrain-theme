@@ -8,6 +8,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.github.helloyeew.helloyeewjetbraintheme.dark" path="/HelloYeew Dark.theme.json"/>
+        <themeProvider id="com.github.helloyeew.helloyeewjetbraintheme.light" path="/HelloYeew Light.theme.json"/>
     </extensions>
 
     <version>0.0.1</version>
