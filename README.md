@@ -15,11 +15,11 @@ Best when using with [Atom Material Icon](https://plugins.jetbrains.com/plugin/1
 
 ### Rider Dark
 
-![Rider Dark](/showcase/rider-dark.png)
+![Rider Dark](https://raw.githubusercontent.com/HelloYeew/helloyeew-jetbrain-theme/main/showcase/rider-dark.png)
 
 ### Rider Light
 
-![Rider Light](/showcase/rider-light.png)
+![Rider Light](https://raw.githubusercontent.com/HelloYeew/helloyeew-jetbrain-theme/main/showcase/rider-light.png)
 
 <!-- Plugin description end -->
 
