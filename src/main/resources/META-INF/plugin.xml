@@ -2,7 +2,7 @@
 <idea-plugin>
     <id>com.github.helloyeew.helloyeewjetbraintheme</id>
     <name>HelloYeew theme</name>
-    <vendor>HelloYeew</vendor>
+    <vendor>Phawit Pornwattanakul</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
