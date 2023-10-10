@@ -13,6 +13,16 @@ Best when using with [Atom Material Icon](https://plugins.jetbrains.com/plugin/1
 
 <!-- Plugin description end -->
 
+## Quick look
+
+### Rider Dark
+
+![Rider Dark](/showcase/rider-dark.png)
+
+### Rider Light
+
+![Rider Light](/showcase/rider-light.png)
+
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
 
