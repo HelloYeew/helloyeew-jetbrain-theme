@@ -2,13 +2,13 @@
 <idea-plugin>
     <id>com.github.helloyeew.helloyeewjetbraintheme</id>
     <name>HelloYeew theme</name>
-    <vendor>Phawit Pornwattanakul</vendor>
+    <vendor>HelloYeew</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.github.helloyeew.helloyeewjetbraintheme.dark" path="/HelloYeew Dark.theme.json"/>
-        <themeProvider id="com.github.helloyeew.helloyeewjetbraintheme.light" path="/HelloYeew Light.theme.json"/>
+        <themeProvider id="fdd5db82-907c-4780-b46b-698972701609" path="/HelloYeew Dark.theme.json"/>
+        <themeProvider id="8b98b4ae-1012-49e7-b10d-d22f60f4fc73" path="/HelloYeew Light.theme.json"/>
     </extensions>
 
     <version>0.0.1</version>

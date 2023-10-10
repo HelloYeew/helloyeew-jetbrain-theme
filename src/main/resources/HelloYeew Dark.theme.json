@@ -1,10 +1,8 @@
 {
   "name": "HelloYeew Dark",
   "dark": true,
-  "author": "Phawit Pornwattanakul",
-
+  "author": "HelloYeew",
   "editorScheme": "/colorSchemes/HelloYeew Dark.xml",
-
   "ui": {
     "*": {
       "background": "#2C2C3B",
