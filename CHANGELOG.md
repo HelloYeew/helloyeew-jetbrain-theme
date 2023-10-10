@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
-## [0.0.1]
+## [0.0.1] - 2023-10-10
+
 ### Added
-- Initialize plugin and export color scheme to plugin
+- Export color scheme to plugin
+- Initial release to plugin marketplace!
