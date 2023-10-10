@@ -1,10 +1,9 @@
 <scheme name="HelloYeew Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-10-09T16:13:52</property>
+    <property name="created">2023-10-10T12:39:12</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.2.2.0.0</property>
-    <property name="modified">2023-10-09T16:14:01</property>
-    <property name="originalScheme">HelloYeew Dark</property>
+    <property name="modified">2023-10-10T12:39:17</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="39703f" />
@@ -921,7 +920,7 @@
     </option>
     <option name="ReSharper.CSHARP_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="749f5b" />
+        <option name="FOREGROUND" value="4d653e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
