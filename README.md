@@ -11,6 +11,8 @@ Theme level color applied from Jetbrain's [Dark Purple](https://github.com/OlyaB
 
 Best when using with [Atom Material Icon](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
 
+<!-- Plugin description end -->
+
 ## Preview
 
 ### Rider Dark
@@ -20,8 +22,6 @@ Best when using with [Atom Material Icon](https://plugins.jetbrains.com/plugin/1
 ### Rider Light
 
 ![Rider Light](https://raw.githubusercontent.com/HelloYeew/helloyeew-jetbrain-theme/main/showcase/rider-light.png)
-
-<!-- Plugin description end -->
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
