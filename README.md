@@ -13,6 +13,8 @@ Best when using with [Atom Material Icon](https://plugins.jetbrains.com/plugin/1
 
 <!-- Plugin description end -->
 
+If you found any idea or have any idea submit an issue is appreciated.
+
 ## Preview
 
 ### Rider Dark
