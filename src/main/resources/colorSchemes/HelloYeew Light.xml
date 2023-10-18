@@ -1,11 +1,16 @@
 <scheme name="HelloYeew Light" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-10-09T17:23:43</property>
+    <property name="created">2023-10-18T10:05:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.2.2.0.0</property>
-    <property name="modified">2023-10-09T17:23:58</property>
+    <property name="modified">2023-10-18T10:05:34</property>
     <property name="originalScheme">HelloYeew Light</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="40a02b" />
     <option name="ANNOTATIONS_COLOR" value="4c4f69" />
@@ -120,7 +125,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="APACHE_CONFIG.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="8839ef" />
@@ -357,7 +362,8 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="ab6c16" />
+        <option name="FOREGROUND" value="1e66f5" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -368,6 +374,11 @@
     <option name="CSS.PSEUDO">
       <value>
         <option name="FOREGROUND" value="179299" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="df8e1d" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -1210,12 +1221,6 @@
         <option name="BACKGROUND" value="bcc0cc" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="680d7e" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="4c4f69" />
@@ -1261,7 +1266,7 @@
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="1b2bea" />
+        <option name="FOREGROUND" value="1e66f5" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -1309,6 +1314,11 @@
     <option name="KOTLIN_EXCLEXCL">
       <value>
         <option name="FOREGROUND" value="4a5e5" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
