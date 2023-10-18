@@ -7,6 +7,7 @@
 ### Added
 
 - Enable ligature for editor font
+- Update light theme color for new UI
 
 ## [0.0.1] - 2023-10-10
 
