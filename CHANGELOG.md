@@ -8,6 +8,12 @@
 
 - Nothing
 
+## [1.0.0] - 2023-12-12
+
+### Added
+
+- Update versioning to using SemVer
+
 ## [0.0.2] - 2023-12-10
 
 ### Added
