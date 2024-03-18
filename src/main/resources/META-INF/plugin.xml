@@ -11,5 +11,5 @@
         <themeProvider id="8b98b4ae-1012-49e7-b10d-d22f60f4fc73" path="/HelloYeew Light.theme.json"/>
     </extensions>
 
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </idea-plugin>
