@@ -9,8 +9,6 @@ My personal theme and editor color scheme for JetBrain IDEs and language that I 
 
 Theme level color applied from Jetbrain's [Dark Purple](https://github.com/OlyaB/DarkPurpleTheme) and [Catpuccino](https://github.com/catppuccin/jetbrains)
 
-Best when using with [Atom Material Icon](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
-
 <!-- Plugin description end -->
 
 If you found any idea or have any idea submit an issue is appreciated.
