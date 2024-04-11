@@ -2,7 +2,7 @@
   "name": "HelloYeew Dark",
   "dark": true,
   "author": "HelloYeew",
-  "editorScheme": "/colorSchemes/HelloYeew Dark.xml",
+  "editorScheme": "/colorSchemes/HelloYeewDark.xml",
   "ui": {
     "*": {
       "background": "#2C2C3B",
