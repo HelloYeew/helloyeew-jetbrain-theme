@@ -8,6 +8,12 @@
 
 - Nothing
 
+## [1.0.2] - 2024-08-14
+
+### Added
+
+- Update IntelliJ platform support to 2024.2
+
 ## [1.0.1] - 2024-03-18
 
 ### Added
@@ -33,7 +39,8 @@
 - Export color scheme to plugin
 - Initial release to plugin marketplace!
 
-[Unreleased]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.1...HEAD
+[Unreleased]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.2...HEAD
+[1.0.2]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v0.0.2...v1.0.0
 [0.0.2]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v0.0.1...v0.0.2
