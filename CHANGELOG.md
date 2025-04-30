@@ -4,10 +4,6 @@
 
 ## [Unreleased]
 
-### Added
-
-- Nothing
-
 ## [1.0.5] - 2025-05-01
 
 ### Added
@@ -55,10 +51,11 @@
 ## [0.0.1] - 2023-10-10
 
 ### Added
+
 - Export color scheme to plugin
 - Initial release to plugin marketplace!
 
-[Unreleased]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.5...HEAD
+[Unreleased]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/compare/v1.0.5...HEAD
 [1.0.5]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.4...v1.0.5
 [1.0.4]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.3...v1.0.4
 [1.0.3]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.2...v1.0.3
