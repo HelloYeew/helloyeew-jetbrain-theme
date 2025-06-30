@@ -3,7 +3,7 @@
   <metaInfo>
     <property name="created">2023-10-18T10:05:28</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2023.2.2.0.0</property>
+    <property name="ideVersion">2025.1.3.0.0</property>
     <property name="modified">2023-10-18T10:05:34</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -11,80 +11,80 @@
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="40a02b" />
-    <option name="ANNOTATIONS_COLOR" value="4c4f69" />
-    <option name="CARET_COLOR" value="dc8a78" />
-    <option name="CARET_ROW_COLOR" value="e7eaef" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="eff1f5" />
-    <option name="DELETED_LINES_COLOR" value="e64553" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="9ca0b0" />
-    <option name="DOCUMENTATION_COLOR" value="e6e9ef" />
-    <option name="DOC_COMMENT_LINK" value="1e66f5" />
-    <option name="ERROR_HINT" value="d20f39" />
-    <option name="FILESTATUS_ADDED" value="40a02b" />
-    <option name="FILESTATUS_COPIED" value="40a02b" />
-    <option name="FILESTATUS_DELETED" value="acb0be" />
-    <option name="FILESTATUS_HIJACKED" value="df8e1d" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="acb0be" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7c7f93" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fe640b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fe640b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fe640b" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="40a02b" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="9ca0b0" />
-    <option name="FILESTATUS_MERGED" value="8839ef" />
-    <option name="FILESTATUS_MODIFIED" value="1e66f5" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="1e66f5" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="1e66f5" />
-    <option name="FILESTATUS_SUPPRESSED" value="7c7f93" />
-    <option name="FILESTATUS_SWITCHED" value="7287fd" />
-    <option name="FILESTATUS_UNKNOWN" value="fd7222" />
-    <option name="FILESTATUS_addedOutside" value="40a02b" />
-    <option name="FILESTATUS_changelistConflict" value="d5264c" />
-    <option name="FILESTATUS_modifiedOutside" value="1e66f5" />
+    <option name="ADDED_LINES_COLOR" value="40A02B" />
+    <option name="ANNOTATIONS_COLOR" value="4C4F69" />
+    <option name="CARET_COLOR" value="DC8A78" />
+    <option name="CARET_ROW_COLOR" value="E7EAEF" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="EFF1F5" />
+    <option name="DELETED_LINES_COLOR" value="E64553" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="9CA0B0" />
+    <option name="DOCUMENTATION_COLOR" value="E6E9EF" />
+    <option name="DOC_COMMENT_LINK" value="1E66F5" />
+    <option name="ERROR_HINT" value="D20F39" />
+    <option name="FILESTATUS_ADDED" value="40A02B" />
+    <option name="FILESTATUS_COPIED" value="40A02B" />
+    <option name="FILESTATUS_DELETED" value="ACB0BE" />
+    <option name="FILESTATUS_HIJACKED" value="DF8E1D" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ACB0BE" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="7C7F93" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="FE640B" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FE640B" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FE640B" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="40A02B" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="9CA0B0" />
+    <option name="FILESTATUS_MERGED" value="8839EF" />
+    <option name="FILESTATUS_MODIFIED" value="1E66F5" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="1E66F5" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="1E66F5" />
+    <option name="FILESTATUS_SUPPRESSED" value="7C7F93" />
+    <option name="FILESTATUS_SWITCHED" value="7287FD" />
+    <option name="FILESTATUS_UNKNOWN" value="FD7222" />
+    <option name="FILESTATUS_addedOutside" value="40A02B" />
+    <option name="FILESTATUS_changelistConflict" value="D5264C" />
+    <option name="FILESTATUS_modifiedOutside" value="1E66F5" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="eff1f5" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="d20f39" />
-    <option name="HTML_TAG_TREE_LEVEL1" value="df8e1d" />
-    <option name="HTML_TAG_TREE_LEVEL2" value="40a02b" />
-    <option name="HTML_TAG_TREE_LEVEL3" value="1e66f5" />
-    <option name="HTML_TAG_TREE_LEVEL4" value="4a5e5" />
-    <option name="HTML_TAG_TREE_LEVEL5" value="8839ef" />
-    <option name="INDENT_GUIDE" value="ccd0da" />
-    <option name="INFORMATION_HINT" value="ccd0da" />
-    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="ced1da" />
-    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="cacdd7" />
-    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="cacdd7" />
-    <option name="LINE_NUMBERS_COLOR" value="9ca0b0" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="8c8fa1" />
-    <option name="LOOKUP_COLOR" value="ccd0da" />
-    <option name="METHOD_SEPARATORS_COLOR" value="ccd0da" />
-    <option name="MODIFIED_LINES_COLOR" value="fe640b" />
-    <option name="MODIFIED_TAB_ICON" value="1e66f5" />
-    <option name="NOTIFICATION_BACKGROUND" value="e6e9ef" />
-    <option name="PROMOTION_PANE" value="ccd0da" />
-    <option name="QUESTION_HINT" value="ccd0da" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="ccd0da" />
-    <option name="RIGHT_MARGIN_COLOR" value="ccd0da" />
-    <option name="SELECTED_INDENT_GUIDE" value="bcc0cc" />
-    <option name="SELECTED_TEARLINE_COLOR" value="bcc0cc" />
-    <option name="SELECTION_BACKGROUND" value="d4d7df" />
+    <option name="GUTTER_BACKGROUND" value="EFF1F5" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="D20F39" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="DF8E1D" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="40A02B" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="1E66F5" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="04A5E5" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="8839EF" />
+    <option name="INDENT_GUIDE" value="CCD0DA" />
+    <option name="INFORMATION_HINT" value="CCD0DA" />
+    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="CED1DA" />
+    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="CACDD7" />
+    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="CACDD7" />
+    <option name="LINE_NUMBERS_COLOR" value="9CA0B0" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="8C8FA1" />
+    <option name="LOOKUP_COLOR" value="CCD0DA" />
+    <option name="METHOD_SEPARATORS_COLOR" value="CCD0DA" />
+    <option name="MODIFIED_LINES_COLOR" value="FE640B" />
+    <option name="MODIFIED_TAB_ICON" value="1E66F5" />
+    <option name="NOTIFICATION_BACKGROUND" value="E6E9EF" />
+    <option name="PROMOTION_PANE" value="CCD0DA" />
+    <option name="QUESTION_HINT" value="CCD0DA" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="CCD0DA" />
+    <option name="RIGHT_MARGIN_COLOR" value="CCD0DA" />
+    <option name="SELECTED_INDENT_GUIDE" value="BCC0CC" />
+    <option name="SELECTED_TEARLINE_COLOR" value="BCC0CC" />
+    <option name="SELECTION_BACKGROUND" value="D4D7DF" />
     <option name="SELECTION_FOREGROUND" value="" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="ced1d9" />
-    <option name="ScrollBar.Mac.thumbColor" value="d8dbe3" />
-    <option name="ScrollBar.hoverThumbColor" value="ced1d9" />
-    <option name="ScrollBar.thumbColor" value="d8dbe3" />
-    <option name="TAB_UNDERLINE" value="ea76cb" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="4c4f69" />
-    <option name="TEARLINE_COLOR" value="ccd0da" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="b183f1" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="e397aa" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="75b868" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="b1d8e2" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="729ef5" />
-    <option name="VISUAL_INDENT_GUIDE" value="ccd0da" />
-    <option name="WHITESPACES" value="ccd0da" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="acb0be" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="CED1D9" />
+    <option name="ScrollBar.Mac.thumbColor" value="D8DBE3" />
+    <option name="ScrollBar.hoverThumbColor" value="CED1D9" />
+    <option name="ScrollBar.thumbColor" value="D8DBE3" />
+    <option name="TAB_UNDERLINE" value="EA76CB" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="4C4F69" />
+    <option name="TEARLINE_COLOR" value="CCD0DA" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="B183F1" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="E397AA" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="75B868" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="B1D8E2" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="729EF5" />
+    <option name="VISUAL_INDENT_GUIDE" value="CCD0DA" />
+    <option name="WHITESPACES" value="CCD0DA" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ACB0BE" />
   </colors>
   <attributes>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
@@ -635,7 +635,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9ca0b0" />
+        <option name="FOREGROUND" value="838891" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -651,7 +651,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ef8539" />
+        <option name="FOREGROUND" value="39a9ef" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -672,7 +672,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9a9ead" />
+        <option name="FOREGROUND" value="797c85" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -711,7 +711,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="1e66f5" />
+        <option name="FOREGROUND" value="17a438" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -757,7 +757,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9ca0b0" />
+        <option name="FOREGROUND" value="838891" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -774,12 +774,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="fe680b" />
+        <option name="FOREGROUND" value="a072b2" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="4a5e5" />
+        <option name="FOREGROUND" value="13b52" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -812,13 +812,13 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="147370" />
+        <option name="FOREGROUND" value="2cabab" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="2cab0c" />
+        <option name="FOREGROUND" value="b78f40" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -926,8 +926,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ffa0a0" />
-        <option name="EFFECT_COLOR" value="d20f39" />
+        <option name="BACKGROUND" value="fdc0c0" />
         <option name="ERROR_STRIPE_COLOR" value="d20f39" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -951,7 +950,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="9ca0b0" />
+        <option name="FOREGROUND" value="ad66af" />
         <option name="BACKGROUND" value="ccd0da" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -1091,9 +1090,6 @@
       <value>
         <option name="FOREGROUND" value="df8e1d" />
       </value>
-    </option>
-    <option name="HTML_CODE">
-      <value />
     </option>
     <option name="HTTP_REQUEST_INPUT_FILE">
       <value>
@@ -1317,11 +1313,8 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="d20f39" />
       </value>
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1661,8 +1654,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FOREGROUND" value="ea76cb" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="acb0be" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -1928,8 +1922,7 @@
     </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="df1ddc" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="fe640b" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT">
@@ -1939,7 +1932,7 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="ab1b27" />
+        <option name="FOREGROUND" value="e64553" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1957,8 +1950,8 @@
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="af0c24" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="d20f39" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.STRING">
@@ -2201,7 +2194,7 @@
     </option>
     <option name="ReSharper.BUILTIN_TYPE_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="83520b" />
+        <option name="FOREGROUND" value="ef3939" />
       </value>
     </option>
     <option name="ReSharper.CSHARP_ATTRIBUTE_IDENTIFIER">
@@ -2210,9 +2203,14 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="ReSharper.CSHARP_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="17a438" />
+      </value>
+    </option>
     <option name="ReSharper.DELEGATE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="df8e1d" />
+        <option name="FOREGROUND" value="18a3a8" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2252,7 +2250,7 @@
     </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="ff7024" />
+        <option name="FOREGROUND" value="381909" />
       </value>
     </option>
     <option name="ReSharper.OUTLINED_ENTITY">
@@ -2268,6 +2266,7 @@
     <option name="ReSharper.PROPERTY_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="81694" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ReSharper.STRING_ESCAPE_CHARACTER_2">
@@ -2596,6 +2595,11 @@
         <option name="FOREGROUND" value="fe640b" />
       </value>
     </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="1e66f5" />
+      </value>
+    </option>
     <option name="XPATH.KEYWORD">
       <value>
         <option name="FOREGROUND" value="8839ef" />
@@ -2608,6 +2612,11 @@
       </value>
     </option>
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="1e66f5" />
+      </value>
+    </option>
     <option name="YAML_SCALAR_LIST">
       <value>
         <option name="FOREGROUND" value="40a02b" />
@@ -2680,6 +2689,11 @@
     </option>
     <option name="org.rust.UNSAFE_CODE">
       <value />
+    </option>
+    <option name="org.toml.KEY">
+      <value>
+        <option name="FOREGROUND" value="1e66f5" />
+      </value>
     </option>
     <option name="osmorc.attributeName">
       <value>
