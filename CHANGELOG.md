@@ -4,8 +4,6 @@
 
 ## [Unreleased]
 
-- Nothing
-
 ## [1.0.8] - 2026-03-26
 
 ### Added
@@ -25,6 +23,7 @@
 
 - Update default font size and enable ligatures for default editor font in both dark and light themes
 - Update comment color when in folded code block and comment block in C# in dark theme
+
 - Revamp color scheme in C# for better readability and make it more consistent with dark theme
 
 ## [1.0.5] - 2025-05-01
@@ -74,13 +73,13 @@
 ## [0.0.1] - 2023-10-10
 
 ### Added
+
 - Export color scheme to plugin
 - Initial release to plugin marketplace!
 
-[Unreleased]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.8...HEAD
+[Unreleased]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/compare/v1.0.8...HEAD
 [1.0.8]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.8...HEAD
 [1.0.7]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.7...v1.0.8
-[1.0.6]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.6...v1.0.7
 [1.0.6]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.5...v1.0.6
 [1.0.5]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.4...v1.0.5
 [1.0.4]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.3...v1.0.4
@@ -90,3 +89,4 @@
 [1.0.0]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v0.0.2...v1.0.0
 [0.0.2]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v0.0.1
+[v1.0.8]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.7...v1.0.8
