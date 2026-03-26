@@ -2,11 +2,16 @@
 
 # helloyeew-jetbrain-theme Changelog
 
-## [Unreleased]
+## Added
+
+- Nothing
+
+## [1.0.8] - 2026-03-26
 
 ### Added
 
-- Nothing
+- Update IntelliJ platform support to 2026.1
+- Try to unset version limitation of IntelliJ platform since this plugin only have the theme color config
 
 ## [1.0.7] - 2025-11-12
 
@@ -72,7 +77,9 @@
 - Export color scheme to plugin
 - Initial release to plugin marketplace!
 
-[Unreleased]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.7...HEAD
+[Unreleased]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.8...HEAD
+[1.0.8]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.8...HEAD
+[1.0.7]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.7...v1.0.8
 [1.0.6]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.6...v1.0.7
 [1.0.6]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.5...v1.0.6
 [1.0.5]: https://github.com/HelloYeew/helloyeew-jetbrain-theme/commits/v1.0.4...v1.0.5
