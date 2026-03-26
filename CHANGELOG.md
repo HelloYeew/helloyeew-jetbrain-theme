@@ -2,7 +2,7 @@
 
 # helloyeew-jetbrain-theme Changelog
 
-## Added
+## [Unreleased]
 
 - Nothing
 
